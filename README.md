@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo link: https://crypto-exchange-zeta.vercel.app/
 
 ## Available Scripts
 
